@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Yummy Food  Delivery App",
+    "image": "/img/photo/food-delivery.png",
+    "points": ["Research", "UX Design", "UI Design"],
+    "description": "Yummy is your go-to food delivery app! Find restaurants near you, order your favorite dishes, and enjoy the best food delivery experience around.",
+    "caseStudy": "Yummy Food-Delivery-App",
+    "caseStudyLink": "https://www.behance.net/gallery/200289285/Food-Delivery-Application-Porter",
+    "protoType": "Yummy Food  Delivery App Prototype link",
+    "protoTypeLink": "https://www.figma.com/proto/Ueopg01EBBSKGoscxgAUcA/FOOD-APP?page-id=0%3A1&node-id=1-256&node-type=frame&viewport=7998%2C1005%2C0.23&t=ukVC9pBIy6G2KhhF-8&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A256&hide-ui=1"
+  },
+  {
+    "title": "The Tailor Management Platform",
+    "image": "/img/photo/tailor-management.png",
+    "points": ["Research", "UX Design", "UI Design"],
+    "description": "The tailor management platform I've designed revolutionizes day-to-day operations for tailors and store owners, addressing their key pain points and streamlining their workflows...",
+    "note": "This is an own product if you need to know more about this product please contact me."
+  },
+  {
+    "title": "ShopEase – Your Ultimate E-commerce Experience!",
+    "image": "/img/photo/one-omaia.png",
+    "points": ["UI Design"],
+    "description": "Explore huge discounts across Electronics, Beauty, Home Essentials, Health & Wellness, and Fashion! Don’t miss out—shop now and celebrate the season with incredible savings!",
+    "protoType": "E-commerce Experience prototype link",
+    "protoTypeLink": "https://www.figma.com/proto/aI0dEVAXHE2FpumkHs6Atp/E-Commerce?page-id=0%3A1&node-id=1-277&node-type=frame&viewport=1860%2C281%2C0.09&t=t7mMkvSCk9XcNt3X-8&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A277&hide-ui=1"
+  },
+  {
+    "title": "Services (SaaS) Application",
+    "image": "/img/photo/saas.png",
+    "points": ["UI Design"],
+    "description": "Empower your business with our expert services in software development, marketing & branding, business consulting, and staffing & recruitment. Let's build a brighter future together.",
+    "protoType": "Services Application Prototype link",
+    "protoTypeLink": "https://www.figma.com/proto/ZDL8rQdwUUK5BcAWhcpBTz/Services-(SaaS)-Application?page-id=0%3A1&node-id=1-1070&node-type=frame&viewport=2551%2C408%2C0.16&t=reWXglLX7ckJaYX3-8&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A1070&hide-ui=1"
+  },
+  {
+    "title": "Design Systems",
+    "image": "/img/photo/design-system.png",
+    "points": ["UI Design"],
+    "description": "A design system is a unified set of reusable components, guidelines, and standards enabling consistent and efficient digital experiences. It fosters collaboration across teams, ensuring cohesive design and development across products and platforms.",
+    "protoType": "Design Systems file",
+    "protoTypeLink": "https://www.figma.com/design/mqX5CGtnXifysHIMx2Pa6m/Design-System?node-id=0-1&t=cT1sBQtkzNnAbFoD-1"
+  }
+]

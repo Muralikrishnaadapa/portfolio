@@ -1,0 +1,20 @@
+{
+    "title": "Customer <span class=\"mil-thin\">Voices:</span> <br>Hear What <span class=\"mil-thin\">They Say!</span>",
+    "subtitle": "Customer reviews are a valuable source <br>of information for both businesses and consumers.",
+    "items": [
+        {
+            "name": "Anil Madhura",
+            "image": "/img/testimonials/anil-madhura.jpg",
+            "role": "IT Delivery -  Empathetic",
+            "text": "Murali is an outstanding individual who possesses an impressive blend of creativity, and a deep understanding of user-centered design principles. One of Murali's greatest strengths is his adaptability, ability to build connections with the people and its importance in the design process. He has a natural curiosity and empathetic approach when it comes to understanding user needs and preferences. He possesses a strong ability to identify pain points and provide innovative solutions."
+        },
+        {
+            "name": "Swaroop Kavali",
+            "image": "/img/testimonials/swaroop.png",
+            "role": "Technical Project Manager",
+            "text": "Working with Murali Krishna has been an amazing experience. As a project manager, I appreciate how his designs are thoughtful and practical, always keeping both the user and technical implementation in mind. His meticulous approach and clear documentation streamline the development process, making it easy for us to bring his designs to life. I look forward to collaborating on future projects!"
+        }
+       
+    ]
+}
+

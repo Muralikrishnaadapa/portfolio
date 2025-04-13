@@ -1,0 +1,85 @@
+{
+  "settings": {
+    "siteName": "Murali Krishna",
+    "formspreeURL": "https://formspree.io/f/your_api_key",
+    "mailchimp": {
+      "url": "",
+      "key": ""
+    }
+  },
+  "header": {
+    "logo": {
+      "symbol": "M.",
+      "link": "/",
+      "image": "/img/photo/M.png"
+    },
+    "menu": [
+      {
+        "label": "Home Page",
+        "link": "/"
+      },
+      {
+        "label": "My Passion",
+        "link": "/#my-passion"
+      },
+      {
+        "label": "Case Study",
+        "link": "/#case-study"
+      },
+      {
+        "label": "Contact",
+        "link": "/contact"
+      }
+    ]
+  },
+  "footer": {
+    "logo": {
+      "text": "let's build a vision together..."
+    },
+    "copy": "Follow #Murali Krishna",
+    "menu": [
+      {
+        "label": "Home Page",
+        "link": "/"
+      },
+      {
+        "label": "My Passion",
+        "link": "/#my-passion"
+      },
+      {
+        "label": "Case Study",
+        "link": "/#case-study"
+      },
+      {
+        "label": "Contact",
+        "link": "/contact"
+      }
+    ]
+  },
+  "social": [
+    {
+      "link": "https://www.linkedin.com/in/murali-krishna-adapa/?locale=en_US",
+      "icon": "fab fa-linkedin",
+      "title": "Linkedin",
+      "image": "/img/icons/linkedin.png"
+    },
+    {
+      "link": "mailto:muraliadapauxui@gmail.com",
+      "icon": "fab fa-gmail",
+      "title": "Gmail",
+      "image": "/img/icons/gmail.png"
+    },
+    {
+      "link": "https://x.com/Muralikrihna001",
+      "icon": "fab fa-twitter",
+      "title": "X",
+      "image": "/img/icons/x.png"
+    },
+    {
+      "link": "https://www.behance.net/Murali-Krishna-Adapa",
+      "icon": "fab fa-behance",
+      "title": "Behance",
+      "image": "/img/icons/be.png"
+    }
+  ]
+}

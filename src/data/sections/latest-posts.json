@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "image": "/img/passion/frame1.png",
+    "link": "/sketches"
+  },
+  {
+    "id": 2,
+    "image": "/img/passion/frame2.png",
+    "link": "/clicks"
+  }
+]

@@ -1,0 +1,103 @@
+{
+    "title1": "Unique <span class=\"mil-thin\">Ideas</span>",
+    "title2": "For Your <span class=\"mil-thin\">Business.</span>",
+    "subtitle": "Professionals focused on helping your brand<br/> grow and move forward.",
+    "button": {
+        "link": "/services",
+        "label": "What we do"
+    },
+    "items": [
+        {
+            "title": "Branding and <br>Identity Design",
+            "text": "Our creative agency is a team of professionals focused on helping your brand grow.",
+            "link": "/services/service-1"
+        },
+        {
+            "title": "Website Design <br>and Development",
+            "text": "Our creative agency is a team of professionals focused on helping your brand grow.",
+            "link": "/services/service-2"
+        },
+        {
+            "title": "Advertising and <br>Marketing Campaigns",
+            "text": "Our creative agency is a team of professionals focused on helping your brand grow.",
+            "link": "/services/service-3"
+        },
+        {
+            "title": "Creative Consulting <br>and Development",
+            "text": "Our creative agency is a team of professionals focused on helping your brand grow.",
+            "link": "/services/service-4"
+        }
+    ],
+    "images": [
+        {
+            "url": "/img/icons/tools/figjam.png",
+            "alt": "img",
+            "title": "Figma"
+        },
+        {
+            "url": "/img/icons/tools/sketch.png",
+            "alt": "img",
+            "title": "Sketch"
+        },
+        {
+            "url": "/img/icons/tools/adobexd.png",
+            "alt": "img",
+            "title": "Adobe XD"
+        },
+        {
+            "url": "/img/icons/tools/motiff.png",
+            "alt": "img",
+            "title": "Motiff"
+        },
+        {
+            "url": "/img/icons/tools/illustration.png",
+            "alt": "img",
+            "title": "Illustration"
+        },
+        {
+            "url": "/img/icons/tools/html.png",
+            "alt": "img",
+            "title": "Html"
+        },
+        {
+            "url": "/img/icons/tools/css.png",
+            "alt": "img",
+            "title": "Css"
+        },
+        {
+            "url": "/img/icons/tools/bootstrap.png",
+            "alt": "img",
+            "title": "Bootstrap"
+        },
+        {
+            "url": "/img/icons/tools/miro.png",
+            "alt": "img",
+            "title": "Miro"
+        },
+        {
+            "url": "/img/icons/tools/jira.png",
+            "alt": "img",
+            "title": "Jira"
+        },
+        {
+            "url": "/img/icons/tools/notion.png",
+            "alt": "img",
+            "title": "Notion"
+        },
+        {
+            "url": "/img/icons/tools/figjam.png",
+            "alt": "img",
+            "title": "Figjam"
+        },
+        {
+            "url": "/img/icons/tools/adobephotos.png",
+            "alt": "img",
+            "title": "Adobe Photoshop"
+        },
+        {
+            "url": "/img/icons/tools/hotjar.png",
+            "alt": "img",
+            "title": "Hotjar"
+        }
+    ]
+}
