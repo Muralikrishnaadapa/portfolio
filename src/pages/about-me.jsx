@@ -16,6 +16,7 @@ const AboutMe = () => {
             <div className="col-lg-12 col-xl-12">
               <div
                 className="mil-text mil-up mil-mb-30"
+                style={{ letterSpacing: "0.05em", lineHeight: "1.5", fontSize: "1.2rem" }}
                 dangerouslySetInnerHTML={{ __html: Data.description }}
               />
             </div>
