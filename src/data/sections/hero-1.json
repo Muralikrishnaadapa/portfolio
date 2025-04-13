@@ -1,10 +1,9 @@
 {
     "title": "Hello,<br>  I'm Murali Krishna!</span>",
-    "subTitle":"Designing Intuitive, Impactful Digital Experiences",
+    "subTitle": "Designing Intuitive, Impactful Digital Experiences",
     "description": "I specialize in crafting functional, visually appealing interfaces for mobile and web platforms. With a user-centered approach, I create experiences that are seamless, engaging, and aligned with business goals.",
     "button1": {
-        "link":"https://drive.google.com/file/d/15aVMw70W3g7krvFsCY4cAtVI06GXbf1a/view?usp=sharing",
+        "link": "/docs/portfolio.pdf",
         "label": "My Resume"
     }
-
 }
