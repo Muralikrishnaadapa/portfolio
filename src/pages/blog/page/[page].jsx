@@ -93,6 +93,6 @@ export async function getStaticProps({ params }) {
       currentPage: page,
       categories: categoriesData
     },
-    revalidate: 60 * 60 * 24, // <--- ISR cache: once a day
+    revalidate: 60 * 60 * 24,
   }
 }
